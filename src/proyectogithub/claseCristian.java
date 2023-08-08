@@ -13,6 +13,6 @@ package proyectogithub;
 public class claseCristian {
      public static void metodo2(){
         System.out.println("agregue una clase");
-        
+        System.out.println("cambio prueba ");
     }
 }
