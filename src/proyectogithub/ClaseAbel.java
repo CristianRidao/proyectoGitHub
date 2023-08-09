@@ -12,5 +12,6 @@ public class ClaseAbel {
     
     public static void algunMetodo(){
         System.out.println("Mando mensaje");
+        System.out.println("Otro mensaje tonto");
     }
 }
